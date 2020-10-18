@@ -5,6 +5,7 @@ based on https://blog.logrocket.com/packaging-a-rust-web-service-using-docker/
 
 
 to start enter this command in command line inside main folder:
+
 cargo build
 docker-compose up
 
